@@ -1,1 +1,8 @@
-welcome to  Meago
+welcome to  Meago 
+my fisrt commit 
+git commit-u origin main 
+git commit -m "message"
+git push -u orgin main 
+git push
+git clone "https://github.com/UX-kannan/MEAGO.git"
+git 
